@@ -9,7 +9,7 @@
 
 - 💬 Ask us about **Anything**
 
-- 📫 How to reach us **business@n1ghtly.hu**
+- 📫 How to reach us **info@n1ghtly.hu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
