@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n1ghtlys&label=Views&color=ff8040&style=flat" alt="n1ghtlys" /> </p>
 
-- 🔭 We are currently working on [Noctify](https://tify.n1ghtly.hu)
+- 🔭 We are currently working on [Noctify](https://noctify.n1ghtly.hu)
 
 - 👨‍💻 All of our projects are available at [https://n1ghtly.hu](https://n1ghtly.hu)
 
 - 💬 Ask us about **Anything**
 
-- 📫 How to reach me **business@n1ghtly.hu**
+- 📫 How to reach us **business@n1ghtly.hu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
